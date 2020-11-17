@@ -7,7 +7,25 @@
 	--colors-text-dark:#000; 
 	--fonts-normal-text:arial,verdana; 
 }
-
+.button5
+{
+	width: 70px;
+	height: 70px;
+	padding: 10px 16px;
+	font-size: 24px;
+	line-height: 1.33;
+	border-radius: 35px;
+	border-color: #000;
+}
+.PasswordButton
+{
+	width: 80%;
+	height: 50px;
+	background-color: #adb8be;
+	border-radius: 20px;
+	font-size: 100%;
+	
+}
 /* Small resets */
 *														{ box-sizing:border-box; }
 html, body, form						{ padding:0px;margin:0px; }
