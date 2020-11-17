@@ -1,0 +1,17 @@
+{
+  "name": "PWA Lock App",
+  "short_name": "PWALocker",
+  "description": "a project for school",
+  "lang": "nl-NL",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "Icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg"
+    }
+  ]
+}
